@@ -11,4 +11,4 @@
 
 - ⚡ Fun fact **The longest tunnel in the munich metro is between Michaelibad and Quiddestraße (1.7km)
 
-[![Lars's GitHub stats](https://github-readme-stats.vercel.app/api?username=lrsmueller)](https://github.com/anuraghazra/github-readme-stats?theme=catppuccin_latte)
+[![Lars's GitHub stats](https://github-readme-stats.vercel.app/api?username=lrsmueller?theme=catppuccin_latte)]
