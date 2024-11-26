@@ -9,4 +9,6 @@
 
 - 📫 How to reach me **me@larsmueller.me**
 
-- ⚡ Fun fact **The longest tunnel in the munich metro is between Michaelibad and Quiddestraße (1.7km) (**
+- ⚡ Fun fact **The longest tunnel in the munich metro is between Michaelibad and Quiddestraße (1.7km)
+
+[![Lars's GitHub stats](https://github-readme-stats.vercel.app/api?username=lrsmueller)](https://github.com/anuraghazra/github-readme-stats?theme=catppuccin_latte)
